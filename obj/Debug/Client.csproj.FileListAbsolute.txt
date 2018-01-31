@@ -1,0 +1,10 @@
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery\Client\bin\Debug\Client.exe
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery\Client\bin\Debug\Client.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery\Client\obj\Debug\Client.exe
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery\Client\obj\Debug\Client.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery_Announcement\Client\obj\Debug\Client.exe
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery_Announcement\Client\obj\Debug\Client.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery_Announcement\Client\bin\Debug\Client.exe
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery_Announcement\Client\bin\Debug\Client.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery_Announcement\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
