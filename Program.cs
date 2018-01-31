@@ -1,8 +1,4 @@
-﻿//----------------------------------------------------------------
-// Copyright (c) Microsoft Corporation.  All rights reserved.
-//----------------------------------------------------------------
-
-using System;
+﻿using System;
 using System.ServiceModel;
 using System.ServiceModel.Discovery;
 using System.ServiceModel.Description;

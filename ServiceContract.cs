@@ -1,5 +1,4 @@
-﻿
-using System.ServiceModel;
+﻿using System.ServiceModel;
 namespace Microsoft.Samples.Discovery
 {
     [ServiceContract(Namespace = "http://WCFDiscovery", ConfigurationName = "IEmployeeService")]
