@@ -1,5 +1,5 @@
 ﻿using System.ServiceModel;
-namespace Microsoft.Samples.Discovery
+namespace SimpleDiscovery
 {
     [ServiceContract(Namespace = "http://WCFDiscovery", ConfigurationName = "IEmployeeService")]
     public interface IEmployeeService

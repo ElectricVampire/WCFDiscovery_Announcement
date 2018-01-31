@@ -4,7 +4,7 @@ using System.ServiceModel.Discovery;
 using System.ServiceModel.Description;
 using System.Xml;
 
-namespace Microsoft.Samples.Discovery
+namespace SimpleDiscovery
 {
     class Client
     {
